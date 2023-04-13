@@ -1,0 +1,4 @@
+__pycache__/
+OPENAI_API_KEY.txt
+embeddings.json
+embeddings.npy
